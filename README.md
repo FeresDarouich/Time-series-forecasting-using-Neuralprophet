@@ -7,10 +7,17 @@ NeuralProphet is a hybrid forecasting framework based on PyTorch and trained wit
 
 # Features
 NeuralProphet provides many time series modeling and workflow features, in a simple package:
+
 Support for global modeling of many time series.
+
 Automatic selection of training related hyperparameters.
+
 Plotting utilities for forecast components, model coefficients and final predictions.
+
 Local context through Autoregression and lagged covariates.
+
 Changing trends and smooth seasonality at different periods.
+
 Modeling of event, holiday, and future regressor effects.
+
 Many customization options, such as regularization.
